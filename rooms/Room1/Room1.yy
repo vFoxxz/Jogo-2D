@@ -18,7 +18,6 @@
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2CAAFF76","properties":[],"isDnd":false,"objectId":{"name":"obj_chao","path":"objects/obj_chao/obj_chao.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":21.5,"scaleY":0.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":704.0,"y":384.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_79365288","properties":[],"isDnd":false,"objectId":{"name":"Object6","path":"objects/Object6/Object6.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.17,"scaleY":0.16079295,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":224.0,"y":288.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2CCF14AD","properties":[],"isDnd":false,"objectId":{"name":"obj_chao","path":"objects/obj_chao/obj_chao.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":89.4356,"scaleX":4.0,"scaleY":0.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1344.0,"y":256.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1DB76889","properties":[],"isDnd":false,"objectId":{"name":"obj_chao","path":"objects/obj_chao/obj_chao.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":89.4356,"scaleX":4.0,"scaleY":0.5,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":256.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6BDF56D4","properties":[],"isDnd":false,"objectId":{"name":"obj_personagem","path":"objects/obj_personagem/obj_personagem.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":288.0,"y":320.0,},
@@ -30,7 +29,6 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_2CAAFF76","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_79365288","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_2CCF14AD","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_1DB76889","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_6BDF56D4","path":"rooms/Room1/Room1.yy",},

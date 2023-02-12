@@ -14,3 +14,5 @@ estado = "andando"
 tamanho_dash = 20
 ala_dash = false
 dar_dash = true
+
+running = false
